@@ -1,6 +1,6 @@
 ---
 title: CIFAR 10 Classification
-summary: CIFAR 10 is a dataset that consists of several images divided into the following 10 classes: Airplanes, Cars, Birds, Cats, Deer, Dogs, Frogs, Horses, Ships, Trucks.
+summary: CIFAR 10 is a dataset that consists of several images divided into the following 10 classes Airplanes, Cars, Birds, Cats, Deer, Dogs, Frogs, Horses, Ships, Trucks.
 tags:
 - Python
 - Data Science
