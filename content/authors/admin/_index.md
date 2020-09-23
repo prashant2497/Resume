@@ -35,11 +35,11 @@ education:
     institution: The NorthCap University, Gurugram
     year: 2019
     grade: 7.2 C.G.P.A
-  - course: 12th Grade
+  - course: 12th
     institution: Delhi Public School, Faridabad
     year: 2015
     grade: 90.4%
-  - course: 10th Grade
+  - course: 10th
     institution: Delhi Public School, Faridabad
     year: 2013
     grade: 10 C.G.P.A
@@ -55,6 +55,16 @@ social:
 - icon: github
   icon_pack: fab
   link: https://github.com/prashantsingh97
+- icon: instagram
+  icon_pack: instagram
+  link: https://www.instagram.com/prashant2497
+- icon: linkedin
+  icon_pack: linkedin
+  link: https://www.linkedin.com/in/prashant-s-4922259
+- icon: kaggle
+  icon_pack: kaggle
+  link: https://www.kaggle.com/prashantsingh2497
+  
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
