@@ -23,20 +23,20 @@
   url = "#projects"
   weight = 40
 
-[[main]]
-  name = "Posts"
-  url = "#posts"
-  weight = 50
+#[[main]]
+# name = "Posts"
+#  url = "#posts"
+#  weight = 50
   
 [[main]]
     name = "CV"
     url = "https://drive.google.com/file/d/0B4cH3kHOZa2vR3E4MWRSdWRzZHZqLTdhaVE2c01kaHpHaWxN/view?usp=sharing"
-    weight = 60
+    weight = 50
     
 [[main]]
   name = "Contact"
   url = "#contact"
-  weight = 70
+  weight = 60
 
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
