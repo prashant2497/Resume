@@ -14,7 +14,7 @@ role: MBA Student
 
 # Organizations/Affiliations
 organizations:
-- name: Department of Business Economics, Delhi University
+- name: Department of Business Economics, University of Delhi
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
@@ -64,12 +64,12 @@ social:
 - icon: kaggle
   icon_pack: fab
   link: https://www.kaggle.com/prashantsingh2497
-  
-# Link to a PDF of your resume/CV from the About widget.
-# To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 - icon: cv
   icon_pack: ai
   link: https://drive.google.com/file/d/0B4cH3kHOZa2vR3E4MWRSdWRzZHZqLTdhaVE2c01kaHpHaWxN/view?usp=sharing
+
+# Link to a PDF of your resume/CV from the About widget.
+# To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: "prashantsingh1997@gmail.com"
