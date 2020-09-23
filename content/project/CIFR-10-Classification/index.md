@@ -1,14 +1,17 @@
 ---
-title: External Project
-summary: An example of linking directly to an external project website using `external_link`.
+title: CIFAR 10 Classification
+summary: CIFAR 10 is a dataset that consists of several images divided into the following 10 classes: Airplanes, Cars, Birds, Cats, Deer, Dogs, Frogs, Horses, Ships, Trucks.
 tags:
-- Demo
+- Python
+- Data Science
+- Data Analysis
+- Excel
 date: "2016-04-27T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
-external_link: http://example.org
+external_link: https://github.com/prashantsingh97/CIFR-10-Classification
 
 image:
-  caption: Photo by Toa Heftiba on Unsplash
+  caption: Photo by GIS Geography
   focal_point: Smart
 ---
