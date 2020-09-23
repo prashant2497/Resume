@@ -62,8 +62,8 @@ date_format = "Jan 2006"
   title = "PHP and Mysql certification"
   url = ""
   certificate_url = ""
-  date_start = ""
-  date_end = "2018-07-01"
+  date_start = "2018-07-01"
+  date_end = "2018-07-06"
   description = ""
 
 +++
