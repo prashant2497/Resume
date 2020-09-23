@@ -18,27 +18,37 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
-  title = "CEO"
-  company = "GenCoin"
+  title = "Data Science Intern"
+  company = "Valvoline"
   company_url = ""
-  location = "California"
-  date_start = "2017-01-01"
-  date_end = ""
+  location = "Work from home"
+  date_start = "2020-05-12"
+  date_end = "2020-07-3"
   description = """
-  Responsibilities include:
+  Worked on 2 projects as a part of anaylics team:
+  -Created a Deep Learning Application (Virtual Lab) so as to help develop a new    lubricant composition virtually that passes all the required parameters. 
+  -Scraping of important data using selenium for python.
   
-  * Analysing
-  * Modelling
-  * Deploying
-  """
+[[experience]]
+  title = ""
+  company = "NHPC Ltd."
+  company_url = ""
+  location = "Faridabad"
+  date_start = "2018-05-15"
+  date_end = "2018-07-4"
+  description = """ 
+  - Worked on an "Online Examination System" project.
+  - Project was aimed to replace pen and paper based examination.
 
 [[experience]]
-  title = "Professor"
-  company = "University X"
+  title = "Web Developer"
+  company = "Online School Planet"
   company_url = ""
-  location = "California"
-  date_start = "2016-01-01"
-  date_end = "2016-12-31"
-  description = """Taught electronic engineering and researched semiconductor physics."""
+  location = "Faridabad"
+  date_start = "2017-05-15"
+  date_end = "2017-07-4"
+  description = """ 
+  - Worked on a live project (Result Analysis)
+  - Project was used to display the result of class 10th students on their website.
 
 +++
