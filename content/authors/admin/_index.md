@@ -56,20 +56,20 @@ social:
   icon_pack: fab
   link: https://github.com/prashantsingh97
 - icon: instagram
-  icon_pack: instagram
+  icon_pack: fab
   link: https://www.instagram.com/prashant2497
 - icon: linkedin
-  icon_pack: linkedin
+  icon_pack: fab
   link: https://www.linkedin.com/in/prashant-s-4922259
 - icon: kaggle
-  icon_pack: kaggle
+  icon_pack: fab
   link: https://www.kaggle.com/prashantsingh2497
   
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
-# - icon: cv
-#   icon_pack: ai
-#   link: files/cv.pdf
+- icon: cv
+  icon_pack: ai
+  link: https://drive.google.com/file/d/0B4cH3kHOZa2vR3E4MWRSdWRzZHZqLTdhaVE2c01kaHpHaWxN/view?usp=sharing
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: "prashantsingh1997@gmail.com"
