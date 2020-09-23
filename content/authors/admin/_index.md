@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Prashant Singh
 
 # Username (this should match the folder name)
 authors:
@@ -10,32 +10,39 @@ authors:
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: MBA Student
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
+- name: Department of Business Economics, Delhi University
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: I am a Computer Science Graduate, currently doing my MBA in Business Economics, with a special focus on applications of Machine Learning in solving business application.
 
 interests:
 - Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Deep Learning
+- Machine Learning
+- Data Science
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: MBA (Business Economics)
+    institution: Department of Business Economics, Delhi University
+    year: 2021
+  - course: B.Tech in Computer Science
+    institution: The NorthCap University, Gurugram
+    year: 2019
+    grade: 7.2 C.G.P.A
+  - course: 12th Grade
+    institution: Delhi Public School, Faridabad
+    year: 2015
+    grade: 90.4%
+  - course: 10th Grade
+    institution: Delhi Public School, Faridabad
+    year: 2013
+    grade: 10 C.G.P.A
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -44,24 +51,18 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
-- icon: google-scholar
-  icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: mailto:prashantsingh1997@gmail.com
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/prashantsingh97
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
-# - icon: cv
-#   icon_pack: ai
-#   link: files/cv.pdf
+- icon: cv
+   icon_pack: ai
+   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ""
+email: "prashantsingh1997@gmail.com"
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
@@ -70,6 +71,6 @@ user_groups:
 - Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I am a Computer Science Graduate, currently doing my MBA in Business Economics, with a special focus on applications of Machine Learning in solving business application.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+I am proficient in Deep Learning, Machine Learning, Data Analysis and Visualization. I am passionate about research involving Deep Learning, Computer Vision and Artificial Intelligence.
