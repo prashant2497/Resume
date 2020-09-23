@@ -22,8 +22,8 @@ date_format = "Jan 2006"
   company = "Valvoline"
   company_url = ""
   location = "Work from home"
-  date_start = "2020-05-12"
-  date_end = "2020-07-3"
+  date_start = "May 2020"
+  date_end = "July 2020"
   description = """
   Worked on 2 projects as a part of anaylics team:
     -Created a Deep Learning Application (Virtual Lab) so as to help develop a new    lubricant composition virtually that passes all the required parameters. 
@@ -35,8 +35,8 @@ date_format = "Jan 2006"
   company = "NHPC Ltd."
   company_url = ""
   location = "Faridabad"
-  date_start = "2018-05-15"
-  date_end = "2018-07-4"
+  date_start = "May 2018"
+  date_end = "July 2018"
   description = """
   Worked on an 'Online Examination System' project:
     - Project was aimed to replace pen and paper based examination
@@ -48,8 +48,8 @@ date_format = "Jan 2006"
   company = "Online School Planet"
   company_url = ""
   location = "Faridabad"
-  date_start = "2017-05-15"
-  date_end = "2017-07-4"
+  date_start = "May 2017"
+  date_end = "July 2017"
   description = """ 
   Worked on a live project 'Result Analysis':
     -Project was used to display the result of class 10th students on their website
