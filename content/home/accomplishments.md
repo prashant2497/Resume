@@ -57,7 +57,7 @@ date_format = "Jan 2006"
   description = ""
   
 [[item]]
-  organization = "IIT BOMBAY
+  organization = "IIT BOMBAY"
   organization_url = ""
   title = "PHP and Mysql certification"
   url = ""
