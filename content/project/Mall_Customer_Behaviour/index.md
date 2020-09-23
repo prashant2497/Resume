@@ -10,9 +10,9 @@ tags:
 date: "2016-04-27T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
-external\_link: https://github.com/prashantsingh97/Mall_Customer_Behaviour
+external_link: https://github.com/prashantsingh97/Mall_Customer_Behaviour
 
 image:
   caption: Photo By Moosend
-  focal\_point: Smart
+  focal_point: Smart
 ---
