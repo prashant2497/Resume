@@ -8,9 +8,9 @@ tags:
 date: "2016-04-27T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
-external\_link: https://github.com/prashantsingh97/Web-Scraping
+external_link: https://github.com/prashantsingh97/Web-Scraping
 
 image:
   caption: Photo by ScrapingBee
-  focal\_point: Smart
+  focal_point: Smart
 ---
