@@ -9,9 +9,9 @@ tags:
 date: "2016-04-27T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
-external\_link: https://github.com/prashantsingh97/Car-Sales-Prediction
+external_link: https://github.com/prashantsingh97/Car-Sales-Prediction
 
 image:
   caption: Car_Sales_Prediction
-  focal\_point: Smart
+  focal_point: Smart
 ---
